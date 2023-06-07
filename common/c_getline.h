@@ -1,0 +1,1 @@
+int c_getline(char line[], int max_line_length);

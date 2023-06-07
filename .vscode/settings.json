@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "chapter**/*[!.c]": true
+  }
+  
+}
