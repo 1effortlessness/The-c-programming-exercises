@@ -1,5 +1,5 @@
 CC = gcc
-DIR = chapter1
+DIR = chapter2
 CFLAGS = -Wall -I./common
 COMMON_SRCS = $(wildcard common/*.c)
 COMMON_OBJS = $(COMMON_SRCS:.c=.o)
